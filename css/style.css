@@ -1,0 +1,17 @@
+html,body{
+    margin:0px;
+    padding:0px;
+    height:100%;
+}
+body{
+    overflow:hidden;
+}
+.slide{
+    height:100%;
+    width:100%;
+    background:-webkit-gradient(radial,
+        50% 50%, 0,
+        50% 50%, 500,
+        from(white), to(#A2D2ED)) no-repeat #A2D2ED;
+    padding:100px;
+}
